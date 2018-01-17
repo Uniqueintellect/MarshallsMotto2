@@ -6,7 +6,7 @@ namespace MarshallsMotto2
     {
         static void Main(string[] args)
         {
-            WriteLine("MsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMs");
+            WriteLine("MsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMs"); //Ms creaets a border around the text.
             WriteLine("Ms Make your vision your view.  Ms");
             WriteLine("MsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMs");
         }

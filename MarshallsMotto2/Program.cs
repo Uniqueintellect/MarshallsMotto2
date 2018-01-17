@@ -1,4 +1,4 @@
-﻿using System;
+﻿using static System.Console;
 
 namespace MarshallsMotto2
 {
@@ -6,7 +6,9 @@ namespace MarshallsMotto2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WriteLine("MsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMs");
+            WriteLine("Ms Make your vision your view.  Ms");
+            WriteLine("MsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMs");
         }
     }
 }
